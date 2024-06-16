@@ -16,7 +16,7 @@ setember = 30
 october = 31
 Novmeber= 31
 December = 31
-li = []
+li = [31,28,30,29,31,31,30,27,30,31,31,31]
 print('{}월은 {}일까지 있습니다'.format(n,))
 
 
